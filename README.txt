@@ -1,0 +1,11 @@
+#Use pip to install these packages
+
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+pillow>=9.0.0
+tqdm>=4.60.0
+
+#Run the Test.py to test the already trained model.
+#Run the Train.py to re-train the model.
